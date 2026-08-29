@@ -149,7 +149,6 @@ ORD-10349,Bilal Malik,38.0,Female,Peshawar,2025-07-19,Tablet,Electronics,51085.5
 ORD-10437,Iqra Iqbal,24.0,Female,Faisalabad,2024-11-27,Laptop,Electronics,132821.14,5,iqra.iqbal6@gmail.com,Bank Transfer,Pending
 ORD-10225,Sana Raza,65.0,Male,Gujranwala,2025-08-28,Laptop,Electronics,138959.96,2,sana.raza36@gmail.com,JazzCash,Cancelled
 ORD-10406,Ali Javed,60.0,Male,Sialkot,2024-02-24,Laptop,Electronics,159067.19,1,ali.javed14@gmail.com,JazzCash,Pending
-ORD-10308,Hassan Javed,19.0,Male,Peshawar,2025-02-23,Keyboard,Accessories,4370.0,1,hassan.javed98@gmail.com,JazzCash,Completed
 ORD-10338,Fatima Iqbal,34.0,Male,Islamabad,2024-11-22,Laptop,Electronics,152946.69,1,fatima.iqbal10@gmail.com,JazzCash,Pending
 ORD-10436,Zainab Iqbal,20.0,Male,Peshawar,2024-08-27,Smartphone,Electronics,82228.63,1,zainab.iqbal30@gmail.com,JazzCash,Returned
 ORD-10370,Fahad Nawaz,50.0,Male,Gujranwala,2024-07-18,Smartphone,Electronics,71390.24,1,fahad.nawaz80@gmail.com,Bank Transfer,Cancelled
@@ -163,7 +162,6 @@ ORD-10388,Sara Shah,46.0,Male,Sialkot,2025-11-25,Smart Watch,Accessories,11737.9
 ORD-10317,Danish Javed,42.0,Male,Islamabad,2025-04-18,Printer,Office,31679.03,1,danish.javed96@gmail.com,Cash,Completed
 ORD-10248,Sana Sheikh,57.0,Female,Sialkot,2024-03-28,Usb Drive,Storage,2447.86,2,sana.sheikh88@gmail.com,Cash,Completed
 ORD-10104,Danish Khan,36.0,Female,Gujranwala,2024-04-02,Monitor,Electronics,42499.19,2,danish.khan75@gmail.com,Card,Pending
-ORD-10028,Hamza Butt,42.0,Female,Multan,2025-02-09,Monitor,Electronics,42551.53,1,hamza.butt86@gmail.com,JazzCash,Completed
 ORD-10054,Fahad Shah,42.0,Female,Peshawar,2024-11-01,Laptop,Electronics,159044.99,4,fahad.shah62@gmail.com,Bank Transfer,Pending
 ORD-10505,Fatima Khan,38.0,Male,Peshawar,2024-09-01,Monitor,Electronics,44126.92,2,fatima.khan80@gmail.com,EasyPaisa,Pending
 ORD-10332,Maham Nawaz,29.0,Female,Faisalabad,2026-04-14,Keyboard,Accessories,4800.27,2,maham.nawaz46@gmail.com,JazzCash,Pending
@@ -216,8 +214,7 @@ ORD-10629,Anum Nawaz,39.0,Female,Multan,2025-03-12,Smartphone,Electronics,70829.
 ORD-10483,Sara Raza,37.0,Male,Sialkot,2025-02-03,Headphones,Accessories,8499.99,1,Unknown,JazzCash,Returned
 ORD-10215,Sara Butt,46.0,Male,Multan,2025-06-06,Usb Drive,Storage,2324.69,1,sara.butt92@gmail.com,Card,Returned
 ORD-10401,Maham Shah,29.0,Male,Karachi,2026-03-10,Smart Watch,Accessories,11533.59,4,maham.shah75@gmail.com,Cash,Returned
-ORD-10142,Talha Sheikh,39.0,Male,Peshawar,2026-05-07,Smart Watch,Accessories,,1,talha.sheikh8@gmail.com,Card,Completed
-ORD-10274,Fatima Malik,36.0,Male,Faisalabad,2024-08-13,Laptop,Electronics,159632.37,2,fatima.malik73@gmail.com,Card,Cancelled
+ORD-10142,Talha Sheikh,39.0,Male,Peshawar,2026-05-07,Smart Watch,Accessories,12429.73,1,talha.sheikh8@gmail.com,Card,Completed
 ORD-10191,Talha Khan,48.0,Female,Karachi,2024-12-07,Laptop,Electronics,133469.98,1,talha.khan6@gmail.com,Bank Transfer,Pending
 ORD-10179,Ahmed Raza,37.0,Male,Peshawar,2025-10-02,Printer,Office,35395.0,1,ahmed.raza26@gmail.com,Card,Pending
 ORD-10085,Hamza Ahmed,18.0,Female,Gujranwala,2026-04-24,Tablet,Electronics,50357.64,3,hamza.ahmed15@gmail.com,unknown,Pending
@@ -308,7 +305,6 @@ ORD-10062,Sara Raza,54.0,Male,Rawalpindi,2026-03-26,Usb Drive,Storage,2111.33,3,
 ORD-10279,Bilal Raza,50.0,Male,Karachi,2026-05-28,Usb Drive,Storage,2319.75,1,bilal.raza38@gmail.com,EasyPaisa,Completed
 ORD-10546,Sana Shah,64.0,Female,Gujranwala,2025-01-24,Usb Drive,Storage,2153.35,2,sana.shah6@gmail.com,Bank Transfer,Completed
 ORD-10449,Sana Sheikh,23.0,Female,Quetta,2026-05-29,Smart Watch,Accessories,12284.71,2,sana.sheikh33@gmail.com,Bank Transfer,Returned
-ORD-10280,Hamza Sheikh,38.0,Male,Gujranwala,2025-12-29,Headphones,Accessories,9138.13,1,hamza.sheikh90@gmail.com,EasyPaisa,Pending
 ORD-10551,Fahad Butt,59.0,Male,Islamabad,2025-12-09,Smartphone,Electronics,79126.01,1,fahad.butt59@gmail.com,Cash,Pending
 ORD-10187,Zainab Butt,49.0,Female,Faisalabad,2024-10-15,Monitor,Electronics,45351.13,1,zainab.butt75@gmail.com,Bank Transfer,Completed
 ORD-10009,Hamza Malik,31.0,Female,Unknown,2024-11-18,Usb Drive,Storage,2270.94,3,hamza.malik28@gmail.com,EasyPaisa,Pending
@@ -320,7 +316,7 @@ ORD-10552,Danish Ahmed,50.0,Female,Gujranwala,2026-01-14,Printer,Office,34799.36
 ORD-10097,Ali Khan,45.0,Male,Sialkot,2025-01-18,Laptop,Electronics,147175.18,1,ali.khan42@gmail.com,Bank Transfer,Returned
 ORD-10394,Danish Nawaz,38.0,Male,Multan,2025-04-02,Smartphone,Electronics,83523.25,3,danish.nawaz58@gmail.com,Cash,Completed
 ORD-10157,Maham Nawaz,33.0,Female,Multan,2024-10-22,Tablet,Electronics,54489.23,1,maham.nawaz68@gmail.com,Cash,Pending
-ORD-10472,Hina Sheikh,41.0,Female,Gujranwala,2025-12-18,Tablet,Electronics,,1,Unknown,JazzCash,Returned
+ORD-10472,Hina Sheikh,41.0,Female,Gujranwala,2025-12-18,Tablet,Electronics,53640.0,1,Unknown,JazzCash,Returned
 ORD-10608,Iqra Raza,63.0,Female,Multan,2025-11-30,Printer,Office,31364.46,1,iqra.raza61@gmail.com,JazzCash,Pending
 ORD-10122,Usman Iqbal,45.0,Male,Rawalpindi,2024-04-05,Smartphone,Electronics,85576.93,3,Unknown,Card,Completed
 ORD-10598,Sana Javed,54.0,Female,Rawalpindi,2024-02-08,Monitor,Electronics,39392.24,1,sana.javed74@gmail.com,Cash,Returned
@@ -373,7 +369,6 @@ ORD-10545,Hassan Butt,57.0,Female,Rawalpindi,2025-03-25,Headphones,Accessories,0
 ORD-10460,Hina Raza,43.0,Male,Faisalabad,2025-04-10,Usb Drive,Storage,2037.51,4,hina.raza29@gmail.com,Card,Returned
 ORD-10366,Omar Shah,30.0,Female,Sialkot,2025-08-08,Laptop,Electronics,142816.67,2,omar.shah95@gmail.com,Bank Transfer,Returned
 ORD-10325,Hamza Khan,32.0,Male,Islamabad,2025-08-21,Printer,Office,35522.25,1,hamza.khan61@gmail.com,Card,Pending
-ORD-10261,Fahad Shah,24.0,Male,Islamabad,2025-03-16,Monitor,Electronics,43482.67,4,Unknown,JazzCash,Pending
 ORD-10556,Danish Shah,33.0,Female,Quetta,2024-01-07,Smartphone,Electronics,77123.77,2,danish.shah57@gmail.com,Bank Transfer,Pending
 ORD-10055,Iqra Butt,39.0,Female,Karachi,2025-02-02,Tablet,Electronics,53640.0,1,iqra.butt35@gmail.com,EasyPaisa,Pending
 ORD-10583,Bilal Ahmed,25.0,Female,Multan,2025-05-01,Smart Watch,Accessories,12604.7,1,bilal.ahmed59@gmail.com,EasyPaisa,Pending
@@ -382,7 +377,7 @@ ORD-10412,Usman Khan,58.0,Female,Multan,2026-03-03,Monitor,Electronics,46578.57,
 ORD-10586,Omar Malik,45.0,Female,Quetta,2025-08-28,Keyboard,Accessories,4287.74,3,omar.malik44@gmail.com,JazzCash,Pending
 ORD-10479,Danish Sheikh,54.0,Female,Islamabad,2025-09-19,Monitor,Electronics,46756.36,1,danish.sheikh22@gmail.com,JazzCash,Completed
 ORD-10107,Omar Khan,61.0,Female,Quetta,2025-01-12,Printer,Office,31689.1,1,omar.khan34@gmail.com,EasyPaisa,Cancelled
-ORD-10232,Zainab Javed,59.0,Female,Faisalabad,2025-06-30,Mouse,Accessories,,1,zainab.javed42@gmail.com,JazzCash,Cancelled
+ORD-10232,Zainab Javed,59.0,Female,Faisalabad,2025-06-30,Mouse,Accessories,2827.04,1,zainab.javed42@gmail.com,JazzCash,Cancelled
 ORD-10371,Sana Khan,44.0,Female,Karachi,2024-12-16,Headphones,Accessories,7838.45,5,sana.khan20@gmail.com,JazzCash,Pending
 ORD-10238,Hassan Javed,60.0,Female,Multan,2025-10-15,Monitor,Electronics,38024.68,1,hassan.javed59@gmail.com,Cash,Completed
 ORD-10488,Iqra Iqbal,36.0,Male,Lahore,2026-03-28,Laptop,Electronics,139462.73,2,iqra.iqbal39@gmail.com,Bank Transfer,Cancelled
@@ -418,13 +413,13 @@ ORD-10637,Hassan Shah,47.0,Male,Peshawar,2026-02-15,Monitor,Electronics,42721.38
 ORD-10091,Fahad Nawaz,52.0,Female,Rawalpindi,2025-04-02,Smart Watch,Accessories,11578.88,3,fahad.nawaz85@gmail.com,JazzCash,Returned
 ORD-10206,Fahad Nawaz,52.0,Female,Karachi,2025-10-18,Monitor,Electronics,37884.98,1,fahad.nawaz14@gmail.com,Bank Transfer,Returned
 ORD-10171,Omar Ahmed,19.0,Male,Multan,2024-04-26,Mouse,Accessories,2937.38,1,omar.ahmed84@gmail.com,Bank Transfer,Returned
-ORD-10110,Omar Iqbal,64.0,Male,Gujranwala,2026-01-30,Printer,Office,,1,omar.iqbal48@gmail.com,Cash,Returned
+ORD-10110,Omar Iqbal,64.0,Male,Gujranwala,2026-01-30,Printer,Office,32367.260000000002,1,omar.iqbal48@gmail.com,Cash,Returned
 ORD-10233,Talha Iqbal,48.0,Female,Sialkot,2026-01-09,Smartphone,Electronics,80099.67,3,talha.iqbal60@gmail.com,Bank Transfer,Cancelled
 ORD-10057,Fatima Khan,38.0,Female,Gujranwala,2025-04-10,Tablet,Electronics,47812.35,1,fatima.khan34@gmail.com,JazzCash,Returned
 ORD-10405,Sara Ahmed,63.0,Female,Peshawar,2025-11-14,Smart Watch,Accessories,12130.14,2,sara.ahmed72@gmail.com,JazzCash,Returned
 ORD-10242,Omar Shah,18.0,Male,Islamabad,2025-10-14,Printer,Office,35515.66,1,omar.shah49@gmail.com,EasyPaisa,Returned
 ORD-10088,Maham Shah,47.0,Male,Karachi,2024-04-26,Keyboard,Accessories,4681.18,5,maham.shah12@gmail.com,EasyPaisa,Cancelled
-ORD-10347,Iqra Raza,20.0,Male,Islamabad,2026-01-01,Tablet,Electronics,,3,iqra.raza11@gmail.com,EasyPaisa,Pending
+ORD-10347,Iqra Raza,20.0,Male,Islamabad,2026-01-01,Tablet,Electronics,53640.0,3,iqra.raza11@gmail.com,EasyPaisa,Pending
 ORD-10098,Fahad Sheikh,42.0,Male,Multan,2026-06-10,Headphones,Accessories,8449.5,1,fahad.sheikh22@gmail.com,Bank Transfer,Pending
 ORD-10572,Hassan Javed,20.0,Male,Islamabad,2026-03-14,Headphones,Accessories,9115.43,1,hassan.javed39@gmail.com,EasyPaisa,Completed
 ORD28659,Hina Javed,57.0,Male,Peshawar,2024-08-14,Smartphone,Electronics,83991.01,1,hina.javed76@gmail.com,JazzCash,Returned
@@ -434,12 +429,11 @@ ORD-10194,Anum Iqbal,21.0,Female,Karachi,2026-01-08,Usb Drive,Storage,2286.42,2,
 ORD-10237,Talha Khan,26.0,Male,Islamabad,2025-02-26,Laptop,Electronics,139456.64,2,talha.khan10@gmail.com,Card,Completed
 ORD-10214,Fahad Malik,54.0,Male,Karachi,2024-07-26,Printer,Office,30378.86,3,fahad.malik8@gmail.com,JazzCash,Returned
 ORD-10129,Anum Khan,45.0,Female,Quetta,2025-11-08,Smartphone,Electronics,70319.3,1,anum.khan87@gmail.com,EasyPaisa,Returned
-ORD-10486,Hina Iqbal,37.0,Female,Gujranwala,2025-03-28,Keyboard,Accessories,,3,hina.iqbal70@gmail.com,JazzCash,Pending
+ORD-10486,Hina Iqbal,37.0,Female,Gujranwala,2025-03-28,Keyboard,Accessories,4576.07,3,hina.iqbal70@gmail.com,JazzCash,Pending
 ORD-10525,Usman Iqbal,54.0,Male,Peshawar,2025-10-29,Keyboard,Accessories,4879.95,1,usman.iqbal72@gmail.com,Bank Transfer,Pending
 ORD-10560,Maham Malik,35.0,Female,Peshawar,2025-12-12,Smart Watch,Accessories,12955.85,1,maham.malik38@gmail.com,EasyPaisa,Pending
 ORD-10539,Hassan Sheikh,26.0,Female,Peshawar,2024-07-26,Printer,Office,31971.83,2,hassan.sheikh75@gmail.com,Card,Returned
 ORD-10533,Ahmed Shah,41.0,Male,Lahore,2025-11-06,Mouse,Accessories,3133.93,2,ahmed.shah85@gmail.com,JazzCash,Returned
-ORD-10174,Maryam Sheikh,32.0,Male,Sialkot,2025-06-04,Headphones,Accessories,8073.55,2,maryam.sheikh92@gmail.com,Card,Pending
 ORD-10646,Ayesha Khan,43.0,Female,Islamabad,2025-06-27,Printer,Office,35069.31,1,ayesha.khan61@gmail.com,EasyPaisa,Returned
 ORD-10297,Omar Malik,35.0,Male,Faisalabad,2024-06-05,Printer,Office,34220.75,1,omar.malik82@gmail.com,Cash,Pending
 ORD-10226,Ayesha Ahmed,62.0,Female,Gujranwala,2024-11-22,Tablet,Electronics,49591.24,2,ayesha.ahmed83@gmail.com,Card,Cancelled
@@ -469,7 +463,7 @@ ORD-10034,Danish Javed,22.0,Male,Peshawar,2024-04-24,Tablet,Electronics,57655.25
 ORD-10251,Sara Khan,56.0,Female,Gujranwala,2025-09-03,Monitor,Electronics,40520.71,2,sara.khan12@gmail.com,Cash,Cancelled
 ORD-10228,Maham Shah,33.0,Female,Sialkot,2025-02-01,Printer,Office,31567.41,1,maham.shah54@gmail.com,JazzCash,Completed
 ORD-10453,Hamza Raza,65.0,Male,Islamabad,2025-02-11,Monitor,Electronics,41719.81,2,hamza.raza74@gmail.com,Card,Returned
-ORD-10481,Fahad Javed,19.0,Unknown,Sialkot,2026-05-24,Tablet,Electronics,,1,fahad.javed58@gmail.com,JazzCash,Completed
+ORD-10481,Fahad Javed,19.0,Unknown,Sialkot,2026-05-24,Tablet,Electronics,53640.0,1,fahad.javed58@gmail.com,JazzCash,Completed
 ORD-10542,Usman Sheikh,54.0,Male,Quetta,2025-09-12,Usb Drive,Storage,2273.39,2,usman.sheikh4@gmail.com,Cash,Pending
 ORD-10413,Ahmed Ahmed,22.0,Male,Gujranwala,2025-06-17,Keyboard,Unknown,4991.1,4,ahmed.ahmed68@gmail.com,Bank Transfer,Returned
 ORD-10431,Maryam Iqbal,23.0,Female,Karachi,2025-09-13,Smartphone,Electronics,72653.74,1,maryam.iqbal71@gmail.com,Cash,Pending
@@ -529,7 +523,7 @@ ORD-10099,Zainab Iqbal,18.0,Female,Faisalabad,2025-11-13,Mouse,Accessories,2535.
 ORD-10568,Danish Javed,65.0,Male,Peshawar,2025-02-27,Smart Watch,Accessories,12453.06,2,danish.javed43@gmail.com,JazzCash,Cancelled
 ORD-10022,Usman Shah,42.0,Female,Peshawar,2026-06-14,Mouse,Accessories,2605.93,1,usman.shah24@gmail.com,Cash,Completed
 ORD-10415,Maham Khan,57.0,Male,Lahore,2025-10-19,Monitor,Electronics,43638.18,1,maham.khan15@gmail.com,JazzCash,Returned
-ORD-10518,Usman Sheikh,32.0,Female,Faisalabad,2024-09-12,Monitor,Electronics,,3,usman.sheikh34@gmail.com,Cash,Returned
+ORD-10518,Usman Sheikh,32.0,Female,Faisalabad,2024-09-12,Monitor,Electronics,42525.36,3,usman.sheikh34@gmail.com,Cash,Returned
 ORD-10150,Hina Butt,46.0,Male,Peshawar,2026-02-05,Usb Drive,Storage,2114.86,1,hina.butt57@gmail.com,Card,Cancelled
 ORD-10355,Danish Butt,41.0,Male,Peshawar,2026-06-07,Smart Watch,Accessories,11444.06,2,danish.butt53@gmail.com,Card,Completed
 ORD-10625,Iqra Shah,52.0,Female,Lahore,2025-05-26,Printer,Office,33152.51,2,iqra.shah9@gmail.com,Cash,Cancelled
@@ -544,11 +538,11 @@ ORD-10140,Danish Iqbal,22.0,Male,Quetta,2024-10-20,Laptop,Electronics,161499.85,
 ORD-10418,Ahmed Butt,24.0,Male,Peshawar,2025-03-10,Keyboard,Accessories,4375.38,3,ahmed.butt86@gmail.com,JazzCash,Completed
 ORD-10219,Omar Shah,40.0,Male,Karachi,2026-05-30,Printer,Office,33373.42,1,omar.shah11@gmail.com,Bank Transfer,Returned
 ORD-10547,Talha Malik,33.0,Female,Lahore,2024-02-13,Smart Watch,Accessories,11562.28,3,talha.malik58@gmail.com,Bank Transfer,Returned
-ORD-10158,Sana Nawaz,56.0,Male,Peshawar,2025-05-26,Smartphone,Electronics,,1,sana.nawaz59@gmail.com,Bank Transfer,Pending
+ORD-10158,Sana Nawaz,56.0,Male,Peshawar,2025-05-26,Smartphone,Electronics,79301.655,1,sana.nawaz59@gmail.com,Bank Transfer,Pending
 ORD-10095,Bilal Javed,49.0,Male,Quetta,2026-02-16,Monitor,Electronics,44923.74,2,Unknown,unknown,Pending
 ORD-10256,Maryam Ahmed,43.0,Female,Faisalabad,2024-06-30,Keyboard,Accessories,4601.23,1,maryam.ahmed78@gmail.com,EasyPaisa,Pending
 ORD-10040,Ali Malik,20.0,Male,Quetta,2024-09-28,Headphones,Accessories,8473.09,2,ali.malik34@gmail.com,EasyPaisa,Cancelled
-ORD-10131,Ayesha Butt,37.0,Male,Karachi,2024-07-28,Usb Drive,Storage,,1,ayesha.butt51@gmail.com,JazzCash,Cancelled
+ORD-10131,Ayesha Butt,37.0,Male,Karachi,2024-07-28,Usb Drive,Storage,2147.46,1,ayesha.butt51@gmail.com,JazzCash,Cancelled
 ORD-10190,Usman Malik,53.0,Female,Karachi,2024-12-13,Monitor,Electronics,40034.72,2,usman.malik51@gmail.com,Card,Returned
 ORD-10403,Maryam Iqbal,65.0,Female,Peshawar,2025-12-17,Headphones,Accessories,8595.0,1,maryam.iqbal18@gmail.com,JazzCash,Pending
 ORD-10039,Hassan Shah,35.0,Male,Peshawar,2026-03-02,Mouse,Accessories,2941.49,3,hassan.shah43@gmail.com,EasyPaisa,Returned
@@ -636,7 +630,7 @@ ORD-10048,Omar Iqbal,18.0,Male,Gujranwala,2025-12-05,Keyboard,Accessories,4564.8
 ORD-10592,Maham Khan,25.0,Female,Lahore,2025-01-02,Printer,Office,33311.76,3,maham.khan1@gmail.com,Card,Returned
 ORD-10643,Bilal Butt,58.0,Male,Quetta,2026-03-24,Usb Drive,Storage,2082.34,1,bilal.butt38@gmail.com,Bank Transfer,Pending
 ORD-10506,Talha Iqbal,38.0,Female,Rawalpindi,2024-10-16,Printer,Office,29944.82,1,talha.iqbal99@gmail.com,Cash,Completed
-ORD-10021,Ayesha Malik,42.0,Male,Sialkot,2026-03-30,Tablet,Electronics,,2,ayesha.malik8@gmail.com,Card,Returned
+ORD-10021,Ayesha Malik,42.0,Male,Sialkot,2026-03-30,Tablet,Electronics,53640.0,2,ayesha.malik8@gmail.com,Card,Returned
 ORD-10425,Maryam Butt,50.0,Male,Faisalabad,2025-10-23,Monitor,Electronics,38331.84,1,maryam.butt96@gmail.com,Card,Pending
 ORD-10193,Fahad Raza,25.0,Female,Quetta,2025-11-20,Laptop,Electronics,159223.34,1,fahad.raza61@gmail.com,JazzCash,Completed
 ORD-10216,Danish Nawaz,37.0,Male,Gujranwala,2026-04-06,Printer,Electronics,30470.23,1,danish.nawaz8@gmail.com,unknown,Completed
